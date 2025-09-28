@@ -1,0 +1,23 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Node modules (if you ever add npm for dependencies later)
+node_modules/
+
+# Logs
+*.log
+
+# Environment files (if API keys are added later)
+.env
+
+# Build or cache directories (in case of future tooling)
+dist/
+build/
+.cache/
+
+# IDE/editor specific
+.vscode/
+.idea/
+*.swp
+*.swo
