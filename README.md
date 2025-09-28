@@ -1,6 +1,6 @@
 # Github Profile Fetcher
 
-Link:- www.githubprofilefetcher.vercel.app
+Link:- https://githubprofilefetcher.vercel.app/
 
 A simple and lightweight web application built with **HTML, CSS, and JavaScript** that integrates with the **GitHub API** to fetch and display user details.  
 
